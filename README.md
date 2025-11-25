@@ -39,11 +39,11 @@ I love understanding how things work behind the scenes — from **database inter
 
 # 🛠️ Tech Stack & Tools
 
-**Languages:** PHP, JavaScript, SQL, Python, C++, C  
+**Languages:** PHP, JavaScript, SQL, Python, C++, C, HTML5, CSS3  
 **Frameworks:** Laravel 12  
 **Database:** MySQL  
 **Tools:** Git, GitHub, Composer, VS Code  
-**Other Skills:** MVC, Blade Templates, Routing, Session Handling  
+**Other Skills:** MVC, Blade Templates, Routing, Session Handling, Bootstrap 5 (via CDN)  
 
 ---
 
