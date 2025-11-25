@@ -5,7 +5,7 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge">
   <img src="https://img.shields.io/badge/Database-MySQL-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Tools-GitHub-black?style=for-the-badge">
